@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+hw_11/*.tar
+hw_11/*.model
+hw_11/*.keras
