@@ -1,2 +1,6 @@
 Model Clf f1-score is 0.7431729349636584
 Model Conv1 f1-score is 0.6605158805269534
+Model Conv2 f1-score is 0.7287332961084191
+Model Conv3 f1-score is 0.6221856545275591
+Model Conv4 f1-score is 0.613035187007874
+Model Conv5 f1-score is 0.6402263306329498
